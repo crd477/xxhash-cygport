@@ -1,0 +1,7 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: xxhash
+sdesc: "Debug info for xxhash"
+ldesc: "This package contains files necessary for debugging the
+xxhash package with gdb."
+
